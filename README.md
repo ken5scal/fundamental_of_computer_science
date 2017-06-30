@@ -4,8 +4,8 @@ Although I'm somewhat proficient in infrastructure and programming, I have never
 * https://www.google.com/about/careers/students/guide-to-technical-development.html
 
 - [ ] Cryptography
-  - [ ] 1: https://www.coursera.org/learn/crypto
-  - [ ] 2(Advanced): https://www.udacity.com/course/applied-cryptography--cs387
+  - [x] 1: https://www.coursera.org/learn/crypto
+  - 2(Advanced): https://www.udacity.com/course/applied-cryptography--cs387
 - [ ] Data Structure/Algorithm
   - Learn about fundamental data types (stack, queues, and bags), sorting algorithms (quicksort, mergesort, heapsort), data structures (binary search trees, red-black trees, hash tables), and Big O.
   - [ ] 1: https://www.coursera.org/course/algs4partI
